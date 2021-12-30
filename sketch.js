@@ -37,7 +37,7 @@ function setup(){
     bird = new Bird(100,100);
 
 }
-
+//comentario
 function draw(){
     background(backgroundImg);
     Engine.update(engine);
